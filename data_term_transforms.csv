@@ -1,0 +1,1721 @@
+1,actuarial,Actuarial,Actuarial
+1,a,Delete,Delete
+1,abdomen,body,Biostatistics 
+1,abdominal,body,Biostatistics 
+1,absence,categorical data,categorical data
+1,absence,categorical data,categorical data
+1,abundance,discrete,discrete
+1,acid,Chemoinformatics,Chemoinformatics
+2,acidified,Chemoinformatics,Chemoinformatics
+1,actuarial,Actuarial,Actuarial
+25,actuarial,Actuarial,Actuarial
+2,adolescent,Lifetime,survival
+1,adult,Lifetime,survival
+1,adult,Lifetime,survival
+2,adult,Lifetime,survival
+1,adult,Lifetime,survival
+1,agglomerative,cluster,computation
+1,akaike,Model selection,Model selection
+2,algorithm,algorithm,Methodology
+3,algorithm,algorithm,Methodology
+1,algorithm,algorithm,Methodology
+3,algorithm,algorithm,Methodology
+1,algorithm,algorithm,Methodology
+1,algorithm,algorithm,Methodology
+1,algorithms,algorithm,Methodology
+1,algorithms,algorithm,Methodology
+1,analyses,analysis,analysis
+3,analysis,analysis,analysis
+11,analysis,analysis,analysis
+4,analysis,analysis,analysis
+1,analysis,analysis,analysis
+1,analysis,analysis,analysis
+6,analysis,analysis,analysis
+1,analysis,analysis,analysis
+4,analysis,analysis,analysis
+14,analysis,analysis,analysis
+4,analysis,analysis,analysis
+1,analysis,analysis,analysis
+1,analysis,analysis,analysis
+1,analytical,analysis,analysis
+1,analyzing,analysis,analysis
+2,anemia,Medical,Medical
+1,angiospermae,plant,Environmental
+2,animal,animal,animal
+1,animal,animal,animal
+1,animals,animal,animal
+1,annealing,annealing,computation
+1,annealing,annealing,computation
+2,annual,Time series,Time Series
+1,annually,Time series,Time Series
+2,annuity,money,finance
+1,anova,regression,regression
+2,anthropogenic,human,animal
+1,antiretroviral,Medical,Medical
+1,antiviral,Medical,Medical
+1,application,application,Applied
+2,application,application,Applied
+1,application,application,Applied
+1,application,application,Applied
+4,application,application,Applied
+1,application,application,Applied
+1,application,application,Applied
+2,application,application,Applied
+1,applications,application,Applied
+1,applications,application,Applied
+1,applications,application,Applied
+2,applications,application,Applied
+1,applications,application,Applied
+1,applications,application,Applied
+2,applications,application,Applied
+2,applications,application,Applied
+1,applied,application,Applied
+1,apply,application,Applied
+3,approach,Methodology,Methodology
+1,approach,Methodology,Methodology
+2,approach,Methodology,Methodology
+1,approach,Methodology,Methodology
+1,approach,Methodology,Methodology
+1,approach,Methodology,Methodology
+1,approach,Methodology,Methodology
+1,approach,Methodology,Methodology
+1,approaches,Methodology,Methodology
+1,approaches,Methodology,Methodology
+1,ar,Time series,Time Series
+1,ar,Time series,Time Series
+1,arbitration,Sport,Sport
+1,arms,body,Biostatistics 
+11,array,Design of Experiment,Design of Experiment
+4,array,Design of Experiment,Design of Experiment
+1,arrays,Design of Experiment,Design of Experiment
+5,arrays,Design of Experiment,Design of Experiment
+2,arterial,body,Biostatistics 
+4,arthritis,Medical,Medical
+1,aspirates,Delete,Delete
+2,assay,Design of Experiment,Design of Experiment
+2,assay,Design of Experiment,Design of Experiment
+1,assessing,Goodness of fit,Goodness of fit
+1,assessing,Goodness of fit,Goodness of fit
+1,assessing,Goodness of fit,Goodness of fit
+1,assessing,Goodness of fit,Goodness of fit
+1,assessing,Goodness of fit,Goodness of fit
+1,assessment,Goodness of fit,Goodness of fit
+1,assessment,Goodness of fit,Goodness of fit
+1,associated,association,association
+2,associated,association,association
+3,associated,association,association
+1,associated,association,association
+1,association,association,association
+7,association,association,association
+3,association,association,association
+1,association,association,association
+8,association,association,association
+3,associations,association,association
+4,associations,association,association
+1,asymptotic,Asymptotics,Asymptotics
+3,asymptotic,Asymptotics,Asymptotics
+3,asymptotic,Asymptotics,Asymptotics
+1,asymptotics,Asymptotics,Asymptotics
+1,asymptotics,Asymptotics,Asymptotics
+2,atmosphere,Environmental ,Environmental
+2,autoantibodies,Medical,Medical
+2,autoantibodies,Medical,Medical
+1,autoantibody,Medical,Medical
+1,autocorrelation,Time series,Time Series
+1,autoimmunity,Medical,Medical
+1,autoimmunity,Medical,Medical
+1,autoregressive,Time series,Time Series
+3,baseball,Sport,Sport
+1,baseball,Sport,Sport
+1,based,Delete,Delete
+2,batsmen,Sport,Sport
+1,batting,Sport,Sport
+1,bayes,Bayesian,Bayesian
+2,bayes,Bayesian,Bayesian
+1,bayesian,Bayesian,Bayesian
+1,bayesian,Bayesian,Bayesian
+20,bayesian,Bayesian,Bayesian
+5,bayesian,Bayesian,Bayesian
+2,bayesian,Bayesian,Bayesian
+2,bayesian,Bayesian,Bayesian
+1,beaches,Environmental ,Environmental
+1,bee,Agriculture,Environmental
+16,beef,Agriculture,Environmental
+1,beetle,Environmental ,Environmental
+2,belly,Biostatistics,Biostatistics
+1,beta,Distribution,Distribution
+1,beta,Distribution,Distribution
+1,betting,Sport,Sport
+1,between,Delete,Delete
+1,bias,Asymptotics,Asymptotics
+1,bias,Asymptotics,Asymptotics
+2,bias,Asymptotics,Asymptotics
+1,bias,Asymptotics,Asymptotics
+2,biased,Asymptotics,Asymptotics
+1,biased,Asymptotics,Asymptotics
+2,biceps,body,Biostatistics 
+1,binary,categorical data,categorical data
+6,binary,categorical data,categorical data
+1,binomial,Distribution,Distribution
+1,binomial,Distribution,Distribution
+1,bioassay,Biostatistics,Biostatistics
+1,biochemical,Biostatistics,Biostatistics
+1,biochemistry,Biostatistics,Biostatistics
+1,biodiversity,Environmental ,Environmental
+1,biological,Biostatistics,Biostatistics
+1,biological,Biostatistics,Biostatistics
+2,biological,Biostatistics,Biostatistics
+1,biological,Biostatistics,Biostatistics
+1,biology,Biostatistics,Biostatistics
+1,biology,Biostatistics,Biostatistics
+1,biomarkers,Genetics,genetic
+1,biometrics,Genetics,genetic
+1,biometry,Genetics,genetic
+2,biophysics,Biostatistics,Biostatistics
+1,biotransformation,Biostatistics,Biostatistics
+1,biotype,Biostatistics,Biostatistics
+1,bird,Biostatistics,Biostatistics
+1,bird,Biostatistics,Biostatistics
+1,birds,Biostatistics,Biostatistics
+1,births,Biostatistics,Biostatistics
+2,blackwell,rao,rao
+1,blackwell,rao,rao
+1,blind,Design of Experiment,Design of Experiment
+1,block,Design of Experiment,Design of Experiment
+1,block,Design of Experiment,Design of Experiment
+3,blocking,Design of Experiment,Design of Experiment
+2,blocking,Design of Experiment,Design of Experiment
+1,blood,Biostatistics,Biostatistics
+5,blood,Biostatistics,Biostatistics
+1,blood,Biostatistics,Biostatistics
+1,blood,Biostatistics,Biostatistics
+2,body,body,Biostatistics 
+4,body,body,Biostatistics 
+1,bone,body,Biostatistics 
+4,bootstrap,Sampling distribution,computation
+3,bootstrap,Sampling distribution,computation
+1,boreal,Environmental ,Environmental
+1,botanical,Environmental ,Environmental
+1,bowlers,Sport,Sport
+2,brain,body,Biostatistics 
+1,breeding,Biostatistics,Biostatistics
+1,brood,Biostatistics ,Biostatistics 
+1,brownian,Stochastic processes,sde
+2,cadmium,Chemoinformatics,Chemoinformatics
+1,calcium,Chemoinformatics,Chemoinformatics
+1,calibration,calibration,estimation
+1,calibration,calibration,estimation
+4,cancer,Medical,Medical
+2,capillary,body,Biostatistics 
+3,carbonyl,Genetics,genetic
+2,carcasses,Biostatistics,Biostatistics
+2,cardiotoxicity,Toxicity,Chemoinformatics
+1,cardiovascular,body,Biostatistics 
+3,carlo,carlo,computation
+7,carlo,carlo,computation
+1,carlo,carlo,computation
+3,carlo,carlo,computation
+2,carlo,carlo,computation
+3,carlo,carlo,computation
+2,carlo,carlo,computation
+2,carlo,carlo,computation
+1,carlo,carlo,computation
+2,cartilage,body,Biostatistics 
+1,cascading,Delete,Delete
+1,cases,Delete,Delete
+8,cash,Financial,finance
+1,catalytic,Chemoinformatics,Chemoinformatics
+1,catcher,Sport,Sport
+5,categorical,categorical data,categorical data
+1,category,categorical data,categorical data
+4,cell,Biostatistics ,Biostatistics 
+3,cell,Biostatistics ,Biostatistics 
+6,cell,Biostatistics ,Biostatistics 
+1,cell,Biostatistics ,Biostatistics 
+1,cellular,Biostatistics ,Biostatistics 
+1,censored,Survival,survival
+1,censored,Survival,survival
+1,censoring,Survival,survival
+1,censoring,Survival,survival
+1,censuses,survey,survey
+3,chain,chain,Bayesian
+7,chain,chain,Bayesian
+1,chain,chain,Bayesian
+4,chain,chain,Bayesian
+4,chain,chain,Bayesian
+2,chain,chain,Bayesian
+4,chain,chain,Bayesian
+1,chains,chain,Bayesian
+1,changepoint,changepoint,changepoint
+1,changepoint,changepoint,changepoint
+1,charr,Fish,animal
+1,checking,Goodness of fit,Goodness of fit
+1,chemicals,Chemoinformatics,Chemoinformatics
+2,chemotherapy,Medical,Medical
+1,chi,Distribution,Distribution
+4,chicken,animal,animal
+5,chickens,animal,animal
+1,chicks,animal,animal
+2,child,child,survival
+2,child,child,survival
+2,childhood,child,survival
+1,children,child,survival
+3,chlamydia,Medical,Medical
+2,chloride,Chemoinformatics,Chemoinformatics
+4,chlorophyll,Biostatistics,Biostatistics
+1,choice,Model selection,Model selection
+1,choices,Model selection,Model selection
+1,choose,Model selection,Model selection
+2,chromosome,Genetics,genetic
+2,chromosome,Genetics,genetic
+1,chromosomes,Genetics,genetic
+2,chronic,Medical,Medical
+1,chum,Fish,animal
+3,claim,Claim,insurance
+2,claim,Claim,insurance
+2,class,categorical data,categorical data
+2,class,categorical data,categorical data
+1,class,categorical data,categorical data
+2,class,categorical data,categorical data
+1,classes,categorical data,categorical data
+1,classification,classification,classification
+1,classification,classification,classification
+1,classification,classification,classification
+3,classification,classification,classification
+1,climate,Environmental ,Environmental
+2,climate,Environmental ,Environmental
+2,clinical,Clinical trials,Medical
+1,clinical,Clinical trials,Medical
+3,clinical,Clinical trials,Medical
+1,cloning,Methodology,Methodology
+5,cluster,Cluster,Cluster
+5,clustering,Cluster,Cluster
+1,clusters,Cluster,Cluster
+1,clusters,Cluster,Cluster
+2,cnewton,Methodology,Methodology
+1,cnewton,Methodology,Methodology
+1,coastal,Geography,Environmental
+1,codes,software,computation
+2,coho,Fish,animal
+1,cohort,Clinical Trials,Medical
+2,collagen,body,Biostatistics 
+1,collineation,Design of Experiment,Design of Experiment
+1,columbia,Geography,Environmental
+1,columbia,Geography,Environmental
+1,columbia,Geography,Environmental
+2,columbia,Geography,Environmental
+1,combination,combination,combination
+1,combining,combination,combination
+1,combining,combination,combination
+1,comparative,comparative,comparison
+1,comparative,comparative,comparison
+1,comparative,comparative,comparison
+1,comparative,comparative,comparison
+1,comparison,comparative,comparison
+1,comparison,comparative,comparison
+2,comparison,comparative,comparison
+1,comparison,comparative,comparison
+1,comparison,comparative,comparison
+1,comparisons,comparative,comparison
+1,comparisons,comparative,comparison
+2,component,Applied,Applied
+1,component,Applied,Applied
+4,component,Applied,Applied
+2,component,Applied,Applied
+1,components,Applied,Applied
+1,components,Applied,Applied
+2,components,Applied,Applied
+1,components,Applied,Applied
+1,components,Applied,Applied
+1,composite,Delete,Delete
+1,computation,computation,computation
+1,computational,computation,computation
+1,computational,computation,computation
+1,computational,computation,computation
+2,computations,computation,computation
+5,computer,computation,computation
+3,computer,computation,computation
+1,computer,computation,computation
+10,computer,computation,computation
+1,conditional,conditional,conditional
+3,conditional,conditional,conditional
+4,conditional,conditional,conditional
+4,conditional,conditional,conditional
+3,conditional,conditional,conditional
+2,conditional,conditional,conditional
+1,confidence,confidence,confidence
+1,confidence,confidence,confidence
+1,confidence,confidence,confidence
+2,confounding,Design of Experiment,Design of Experiment
+1,consistency,Asymptotics,Asymptotics
+2,constrained,constraint,constraint
+2,constrained,constraint,constraint
+1,constraint,constraint,constraint
+1,constraint,constraint,constraint
+1,constraints,constraint,constraint
+1,constructing,Methodology,Methodology
+1,constructing,Methodology,Methodology
+1,constructing,Methodology,Methodology
+2,constructing,Methodology,Methodology
+6,construction,Methodology,Methodology
+1,construction,Methodology,Methodology
+1,contrast,contrast,comparison
+1,contrast,contrast,comparison
+1,contrast,contrast,comparison
+1,contrast,contrast,comparison
+2,control,control,comparison
+6,control,control,comparison
+3,control,control,comparison
+1,controls,control,comparison
+1,controls,control,comparison
+1,convergence,convergence,convergence
+1,convergence,convergence,convergence
+1,convergence,convergence,convergence
+6,correlated,correlated,correlated
+1,correlation,correlated,correlated
+1,correlation,correlated,correlated
+1,correlation,correlated,correlated
+1,cortisol,Biostatistics,Biostatistics
+1,count,discrete,discrete
+4,count,discrete,discrete
+2,counting,discrete,discrete
+2,counting,discrete,discrete
+1,counts,discrete,discrete
+2,counts,discrete,discrete
+3,counts,discrete,discrete
+1,counts,discrete,discrete
+2,covariance,Applied,Applied
+1,covariates,Applied,Applied
+5,covariates,Applied,Applied
+2,covariates,Applied,Applied
+1,covariates,Applied,Applied
+2,cowbird,animal,animal
+1,cox,Survival,survival
+1,cox,Survival,survival
+1,cox,Survival,survival
+1,cox,Survival,survival
+2,cox,Survival,survival
+6,cramer,Distribution,Distribution
+1,cricket,Sport,Sport
+2,criteria,criterion,criterion
+2,criteria,criterion,criterion
+1,criteria,criterion,criterion
+1,criteria,criterion,criterion
+2,criterion,criterion,criterion
+1,criterion,criterion,criterion
+2,criterion,criterion,criterion
+2,criterion,criterion,criterion
+2,criterion,criterion,criterion
+2,crop,Agriculture,Environmental
+1,crops,Agriculture,Environmental
+1,crossover,Design of Experiment,Design of Experiment
+1,curve,smoothing,smoothing
+1,curves,smoothing,smoothing
+1,cysteine,Chemoinformatics,Chemoinformatics
+1,cytohistologic,Delete,Delete
+2,data,Applied,Applied
+10,data,Applied,Applied
+6,data,Applied,Applied
+1,data,Applied,Applied
+3,data,Applied,Applied
+1,data,Applied,Applied
+8,data,Applied,Applied
+2,data,Applied,Applied
+8,data,Applied,Applied
+3,data,Applied,Applied
+12,data,Applied,Applied
+5,data,Applied,Applied
+2,data,Applied,Applied
+5,data,Applied,Applied
+1,data,Applied,Applied
+3,day,Time series,Time Series
+1,day,Time series,Time Series
+2,days,Time series,Time Series
+3,death,Survival,survival
+1,delay,Delete,Delete
+1,demographic,survey,survey
+1,demographics,survey,survey
+2,demography,survey,survey
+1,density,Distribution,Distribution
+2,dependence,Delete,Delete
+1,dependent,dependent,dependent
+1,dependent,dependent,dependent
+3,dependent,dependent,dependent
+1,dependent,dependent,dependent
+2,dependent,dependent,dependent
+1,dependent,dependent,dependent
+1,derivatives,Derivatives,Derivatives
+1,derivatives,Derivatives,Derivatives
+2,design,Design of Experiment,Design of Experiment
+40,design,Design of Experiment,Design of Experiment
+1,design,Design of Experiment,Design of Experiment
+1,design,Design of Experiment,Design of Experiment
+3,design,Design of Experiment,Design of Experiment
+1,design,Design of Experiment,Design of Experiment
+2,design,Design of Experiment,Design of Experiment
+1,design,Design of Experiment,Design of Experiment
+15,design,Design of Experiment,Design of Experiment
+1,design,Design of Experiment,Design of Experiment
+1,designing,Design of Experiment,Design of Experiment
+6,designs,Design of Experiment,Design of Experiment
+14,designs,Design of Experiment,Design of Experiment
+1,designs,Design of Experiment,Design of Experiment
+1,designs,Design of Experiment,Design of Experiment
+1,designs,Design of Experiment,Design of Experiment
+8,designs,Design of Experiment,Design of Experiment
+1,detecting,Delete,Delete
+1,develop,Methodology,Methodology
+1,developed,Methodology,Methodology
+1,developing,Methodology,Methodology
+3,development,Methodology,Methodology
+5,diabetes,Medical,Medical
+6,diabetes,Medical,Medical
+3,diagnosis,Medical,Medical
+3,diagnosis,Medical,Medical
+2,diagnostic,Delete,Delete
+1,diagnostics,Goodness of fit,Goodness of fit
+2,differential,differential,Derivatives
+9,differential,differential,Derivatives
+4,differential,differential,Derivatives
+3,differential,differential,Derivatives
+2,diffusing,diffusion,diffusion
+1,diffusion,diffusion,diffusion
+14,diffusion,diffusion,diffusion
+3,diffusion,diffusion,diffusion
+8,dirichlet,Distribution,Distribution
+1,discrctc,discrete,discrete
+1,discrete,discrete,discrete
+2,discrete,discrete,discrete
+1,discrete,discrete,discrete
+1,discretisation,discrete,discrete
+1,discriminant,discriminant,classification
+1,discrimination,discrimination,classification
+1,discrimination,discrimination,classification
+2,disease,Medical,Medical
+1,disease,Medical,Medical
+1,disease,Medical,Medical
+3,diseases,Medical,Medical
+1,diseases,Medical,Medical
+2,disorders,Medical,Medical
+1,dispersal,dispersal,glm
+1,dispersion,dispersion,glm
+7,distribution,Distribution,Distribution
+5,distribution,Distribution,Distribution
+1,distribution,Distribution,Distribution
+6,distribution,Distribution,Distribution
+2,distribution,Distribution,Distribution
+3,distribution,Distribution,Distribution
+1,distribution,Distribution,Distribution
+12,distribution,Distribution,Distribution
+2,distribution,Distribution,Distribution
+1,distributions,Distribution,Distribution
+1,distributions,Distribution,Distribution
+2,distributions,Distribution,Distribution
+1,distributions,Distribution,Distribution
+9,dividend,dividend,dividend
+1,dividends,dividend,dividend
+1,dividendspenalty,dividend,dividend
+2,dna,genetics,genetic
+1,dna,genetics,genetic
+1,dog,animal,animal
+1,dogs,animal,animal
+1,dollar,money,finance
+1,drift,drift,drift
+2,drift,drift,drift
+2,drug,Medical,Medical
+3,duration,duration,duration
+1,duration,duration,duration
+8,dynamic,dynamics,dynamics
+3,dynamic,dynamics,dynamics
+1,dynamic,dynamics,dynamics
+3,dynamic,dynamics,dynamics
+1,dynamical,dynamics,dynamics
+1,dynamics,dynamics,dynamics
+1,dynamics,dynamics,dynamics
+1,ecological,Environmental ,Environmental
+1,ecology,Environmental ,Environmental
+1,ecology,Environmental ,Environmental
+1,economic,Economic,finance
+1,ecosystem,Environmental ,Environmental
+1,ecosystems,Environmental ,Environmental
+5,effect,Applied,Applied
+1,effect,Applied,Applied
+4,effect,Applied,Applied
+3,effect,Applied,Applied
+3,effect,Applied,Applied
+2,effect,Applied,Applied
+1,effective,Applied,Applied
+1,effective,Applied,Applied
+2,effects,Applied,Applied
+7,effects,Applied,Applied
+1,effects,Applied,Applied
+3,effects,Applied,Applied
+3,effects,Applied,Applied
+1,effects,Applied,Applied
+1,effects,Applied,Applied
+2,effects,Applied,Applied
+2,efficacy,Applied,Applied
+2,em,Algorithm,computation
+2,em,Algorithm,computation
+1,em,Algorithm,computation
+2,em,Algorithm,computation
+1,em,Algorithm,computation
+1,empirical,empirical,empirical
+6,empirical,empirical,empirical
+1,empirical,empirical,empirical
+1,entangled,Delete,Delete
+1,entropy,Chemoinformatics,Chemoinformatics
+1,entropy,Chemoinformatics,Chemoinformatics
+1,enumeration,discrete,discrete
+1,environment,Environmental ,Environmental
+5,environment,Environmental ,Environmental
+1,environment,Environmental ,Environmental
+5,environment,Environmental ,Environmental
+1,environmental,Environmental ,Environmental
+1,environments,Environmental ,Environmental
+2,enzyme,enzyme,genetic
+1,enzymes,enzyme,genetic
+1,epidemiology,epidemiology,Medical
+1,epidemiology,epidemiology,Medical
+1,equation,equation,model
+4,equation,equation,model
+2,equation,equation,model
+1,equation,equation,model
+9,equation,equation,model
+4,equation,equation,model
+4,equation,equation,model
+1,equations,equation,model
+1,equations,equation,model
+4,equations,equation,model
+2,equations,equation,model
+1,equicorrelation,correlated,correlated
+1,equivalence,equivalence,equivalence
+1,equivalent,equivalence,equivalence
+1,ergodic,ergodic,stochastic
+2,error,errors,errors
+1,errors,errors,errors
+1,errors,errors,errors
+2,errors,errors,errors
+1,estimability,estimability,identifiability
+1,estimate,estimate,estimation
+2,estimate,estimate,estimation
+1,estimate,estimate,estimation
+2,estimated,estimate,estimation
+2,estimates,estimate,estimation
+1,estimates,estimate,estimation
+1,estimates,estimate,estimation
+1,estimates,estimate,estimation
+1,estimates,estimate,estimation
+1,estimates,estimate,estimation
+5,estimating,estimating,estimation
+3,estimating,estimating,estimation
+2,estimating,estimating,estimation
+1,estimating,estimating,estimation
+2,estimating,estimating,estimation
+2,estimating,estimating,estimation
+9,estimating,estimating,estimation
+2,estimating,estimating,estimation
+3,estimating,estimating,estimation
+1,estimating,estimating,estimation
+1,estimation,estimation,estimation
+2,estimation,estimation,estimation
+3,estimation,estimation,estimation
+6,estimation,estimation,estimation
+7,estimation,estimation,estimation
+1,estimation,estimation,estimation
+1,estimation,estimation,estimation
+1,estimation,estimation,estimation
+4,estimation,estimation,estimation
+8,estimation,estimation,estimation
+1,estimation,estimation,estimation
+7,estimation,estimation,estimation
+6,estimation,estimation,estimation
+1,estimation,estimation,estimation
+2,estimation,estimation,estimation
+3,estimation,estimation,estimation
+2,estimator,estimator,estimation
+1,estimator,estimator,estimation
+1,estimators,estimator,estimation
+1,estimators,estimator,estimation
+1,evaluating,Goodness of fit,Goodness of fit
+1,evaluating,Goodness of fit,Goodness of fit
+1,evaluation,Goodness of fit,Goodness of fit
+1,evaluation,Goodness of fit,Goodness of fit
+1,evaluation,Goodness of fit,Goodness of fit
+2,experiment,Design of Experiment,Design of Experiment
+2,experiment,Design of Experiment,Design of Experiment
+3,experiment,Design of Experiment,Design of Experiment
+1,experimental,Design of Experiment,Design of Experiment
+1,experimental,Design of Experiment,Design of Experiment
+1,experimental,Design of Experiment,Design of Experiment
+1,experiments,Design of Experiment,Design of Experiment
+3,experiments,Design of Experiment,Design of Experiment
+2,experiments,Design of Experiment,Design of Experiment
+2,experiments,Design of Experiment,Design of Experiment
+10,experiments,Design of Experiment,Design of Experiment
+1,factor,factor,categorical data
+10,factor,factor,categorical data
+1,factor,factor,categorical data
+15,factorial,Design of Experiment,Design of Experiment
+2,factorial,Design of Experiment,Design of Experiment
+9,factorial,Design of Experiment,Design of Experiment
+1,factorials,Design of Experiment,Design of Experiment
+1,factorials,Design of Experiment,Design of Experiment
+1,factors,factor,categorical data
+1,factors,factor,categorical data
+2,factors,factor,categorical data
+1,factors,factor,categorical data
+1,factors,factor,categorical data
+2,factors,factor,categorical data
+1,falcon,animal,animal
+1,falcons,animal,animal
+1,fdr,fdr,classification
+1,fdr,fdr,classification
+3,fecundity,fecundity,Biostatistics
+1,female,female,Biostatistics
+3,female,female,Biostatistics
+1,female,female,Biostatistics
+2,femoris,body,Biostatistics 
+2,femur,body,Biostatistics 
+1,fermented,Fermented,Biostatistics
+1,fibroblasts,Genetic,genetic
+1,fibroblasts,Genetic,genetic
+2,field,Environmental ,Environmental 
+1,fine,Delete,Delete
+3,finite,Asymptotics,Asymptotics
+2,fish,Fish,animal
+1,fisheries,Environmental ,Environmental
+1,fisheries,Environmental ,Environmental
+2,fishery,Environmental ,Environmental
+2,fishing,Environmental ,Environmental
+9,fit,fit,Goodness of fit
+2,fit,fit,Goodness of fit
+1,fitting,fit,Goodness of fit
+1,fitting,fit,Goodness of fit
+1,flea,animal,animal
+1,fleas,animal,animal
+2,flour,Agriculture,Environmental
+1,foot,body,Biostatistics 
+5,forest,Environmental ,Environmental
+3,forest,Environmental ,Environmental
+1,forests,Environmental ,Environmental
+1,fractional,Design of Experiment,Design of Experiment
+13,fractional,Design of Experiment,Design of Experiment
+1,fractional,Design of Experiment,Design of Experiment
+6,fractional,Design of Experiment,Design of Experiment
+2,frequency,frequency,frequency
+1,frequency,frequency,frequency
+2,frequency,frequency,frequency
+2,function,function,function
+1,function,function,function
+4,function,function,function
+1,function,function,function
+3,function,function,function
+1,function,function,function
+9,function,function,function
+6,function,function,function
+1,function,function,function
+3,function,function,function
+1,function,function,function
+1,function,function,function
+10,functional,functional,smoothing
+5,functional,functional,smoothing
+2,functions,function,function
+1,functions,function,function
+1,functions,function,function
+3,functions,function,function
+3,functions,function,function
+1,functions,function,function
+1,functions,function,function
+1,functions,function,function
+1,fund,fund,finance
+1,fungi,Environmental ,Environmental
+1,future,future,predict
+1,gambler,gambler,gambling
+1,gambling,gambler,gambling
+1,gamma,Distribution,Distribution
+2,gauss,Distribution,Distribution
+1,gauss,Distribution,Distribution
+1,gaussian,Distribution,Distribution
+1,gaussian,Distribution,Distribution
+3,gaussian,Distribution,Distribution
+1,gender,gender,Biostatistics
+3,gender,gender,Biostatistics
+2,gender,gender,Biostatistics
+1,gene,gene,genetic
+8,gene,gene,genetic
+11,gene,gene,genetic
+6,gene,gene,genetic
+1,genealogies,genealogy,genetic
+1,genealogies,genealogy,genetic
+1,genealogy,genealogy,genetic
+1,genealogy,genealogy,genetic
+1,geneassociation,genealogy,genetic
+1,generalized,generalized,glm
+1,generalized,generalized,glm
+5,generalized,generalized,glm
+2,generalized,generalized,glm
+2,generalized,generalized,glm
+3,generalized,generalized,glm
+2,generalized,generalized,glm
+1,generalized,generalized,glm
+2,generalized,generalized,glm
+9,generalized,generalized,glm
+1,generalized,generalized,glm
+1,generation,generalized,glm
+1,genetic,Genetics,genetic
+8,genetic,Genetics,genetic
+1,genetic,Genetics,genetic
+7,genetic,Genetics,genetic
+1,genetic,Genetics,genetic
+5,genetics,Genetics,genetic
+1,genetics,Genetics,genetic
+1,genetics,Genetics,genetic
+1,genome,genomic,genetic
+1,genome,genomic,genetic
+1,genomic,genomic,genetic
+1,genomic,genomic,genetic
+1,genomics,genomic,genetic
+1,genomics,genomic,genetic
+1,genotype,genomic,genetic
+2,genotype,genomic,genetic
+1,genotypes,genomic,genetic
+1,genotypes,genomic,genetic
+4,geometric,geometric,geometric
+2,geometric,geometric,geometric
+1,geometric,geometric,geometric
+3,geometry,geometric,geometric
+1,gibbs,gibbs,computation
+4,gibbs,gibbs,computation
+2,gibbs,gibbs,computation
+1,gibbs,gibbs,computation
+1,gill,Fish,animal
+1,gilt,Fish,animal
+1,glass,Delete,Delete
+1,glufosinate,Chemoinformatics,Chemoinformatics
+1,glutamate,Chemoinformatics,Chemoinformatics
+1,glyphosate,Chemoinformatics,Chemoinformatics
+1,goalie,Sport,Sport
+1,gold,Delete,Delete
+2,golf,Sport,Sport
+1,goodness,Goodness of fit,Goodness of fit
+11,goodness,Goodness of fit,Goodness of fit
+2,goodness,Goodness of fit,Goodness of fit
+1,graph,graph,graph
+1,graph,graph,graph
+1,graph,graph,graph
+1,graphical,graph,graph
+1,graphical,graph,graph
+1,graphics,graph,graph
+1,graphics,graph,graph
+1,graphs,graph,graph
+2,graphs,graph,graph
+1,graphs,graph,graph
+1,grooves,Delete,Delete
+5,grouse,animal,animal
+1,grown,growth,growth
+1,growth,growth,growth
+4,growth,growth,growth
+1,growth,growth,growth
+1,growth,growth,growth
+2,handicapping,Sport,Sport
+2,haplotype,haplotype,genetic
+2,haplotype,haplotype,genetic
+3,haplotypes,haplotype,genetic
+3,haplotypes,haplotype,genetic
+1,harvest,Agriculture,Environmental
+1,harvested,Agriculture,Environmental
+1,harvests,Agriculture,Environmental
+1,hastings,hastings,Bayesian
+1,hastings,hastings,Bayesian
+3,hazard,hazard,survival
+1,hazards,hazard,survival
+1,health,health,Medical
+2,health,health,Medical
+1,health,health,Medical
+2,herbicide,Agriculture,Environmental
+1,herbicides,Agriculture,Environmental
+2,hidden,hidden,latent
+15,hidden,hidden,latent
+2,hierarchical,hierarchical,hierarchical
+1,hierarchical,hierarchical,hierarchical
+1,hierarchy,hierarchical,hierarchical
+1,hierarchy,hierarchical,hierarchical
+1,hiv,Medical,Medical
+6,hiv,Medical,Medical
+4,hockey,Sport,Sport
+2,hockey,Sport,Sport
+1,hodgkin,Medical,Medical
+1,hodgkin's,Medical,Medical
+1,homoscedasticity,homoscedasticity,homoscedasticity
+1,hospital,Clinical trials,Medical
+2,human,body,Biostatistics 
+1,human,body,Biostatistics 
+1,human,body,Biostatistics 
+1,humans,body,Biostatistics 
+1,humans,body,Biostatistics 
+1,humans,body,Biostatistics 
+2,humans,body,Biostatistics 
+2,humans,body,Biostatistics 
+1,humans,body,Biostatistics 
+1,hurricane,Environmental ,Environmental
+1,hurricanes,body,Environmental
+1,hydrocortisone,Biostatistics,Biostatistics
+1,hydrogen,Chemoinformatics,Chemoinformatics
+5,hypercube,Design of Experiment,Design of Experiment
+5,hypercube,Design of Experiment,Design of Experiment
+1,hypercubes,Design of Experiment,Design of Experiment
+1,hypotheses,Hypothesis testing,Hypothesis testing
+1,hypotheses,Hypothesis testing,Hypothesis testing
+1,hypothesis,Hypothesis testing,Hypothesis testing
+1,hypothesis,Hypothesis testing,Hypothesis testing
+1,identifiability,identifiability,identifiability
+1,identification,identifiability,identifiability
+2,identification,identifiability,identifiability
+1,identification,identifiability,identifiability
+1,identifying,identifiability,identifiability
+1,identity,identifiability,identifiability
+1,identity,identifiability,identifiability
+2,identity,identifiability,identifiability
+1,identity,identifiability,identifiability
+1,illness,Medical,Medical
+1,illness,Medical,Medical
+1,implicit,Delete,Delete
+1,improving,Delete,Delete
+1,incomplete,incomplete,incomplete
+2,incomplete,incomplete,incomplete
+1,incomplete,incomplete,incomplete
+1,infected,Medical,Medical
+1,infection,infection,Medical
+1,infection,infection,Medical
+3,infections,infection,Medical
+1,inference,inference,inference
+4,inference,inference,inference
+2,inference,inference,inference
+6,inference,inference,inference
+3,inference,inference,inference
+6,inference,inference,inference
+1,inference,inference,inference
+2,inference,inference,inference
+1,inference,inference,inference
+1,inferences,inference,inference
+5,information,information,information
+2,information,information,information
+2,information,information,information
+3,information,information,information
+1,information,information,information
+4,insurance,insurance,insurance
+1,intensities,intensity,intensity
+1,intensity,intensity,intensity
+1,intensity,intensity,intensity
+1,intensity,intensity,intensity
+2,intensity,intensity,intensity
+3,interaction,interaction,interaction
+6,interaction,interaction,interaction
+3,interaction,interaction,interaction
+6,interaction,interaction,interaction
+1,interactions,interaction,interaction
+9,interactions,interaction,interaction
+1,interactions,interaction,interaction
+3,interest,interest,interest
+12,interest,interest,interest
+1,interest,interest,interest
+1,interferon,Medical,Medical
+1,interval,interval,interval
+1,interval,interval,interval
+1,intervals,interval,interval
+1,is,Delete,Delete
+1,juvenile,Lifetime,survival
+2,juvenile,Lifetime,survival
+1,juveniles,Lifetime,survival
+3,kernel,kernel,smoothing
+1,kernel,kernel,smoothing
+2,kernel,kernel,smoothing
+1,kernels,kernel,smoothing
+3,kronecker,kronecker,computation
+2,kronecker,kronecker,computation
+1,laplace,laplace,Distrubution
+1,laplace,laplace,Distrubution
+5,latent,latent,latent
+1,latent,latent,latent
+1,latent,latent,latent
+2,latent,latent,latent
+3,latent,latent,latent
+6,latin,Design of Experiment,Design of Experiment
+6,latin,Design of Experiment,Design of Experiment
+1,latitude,Environmental ,Environmental
+1,latitudinal,Environmental ,Environmental
+1,laws,Distribution,Distribution
+6,league,Sport,Sport
+1,league,Sport,Sport
+1,league,Sport,Sport
+2,learning,learning,learning
+2,learning,learning,learning
+5,learning,learning,learning
+2,lepeophtheirus,animal,animal
+3,lesion,Biostatistics,Biostatistics
+2,lesions,Biostatistics,Biostatistics
+2,level,level,level
+6,level,level,level
+1,level,level,level
+1,levels,level,level
+1,levels,level,level
+1,levels,level,level
+1,lice,Biostatistics,Biostatistics
+1,life,Lifetime,survival
+1,life,Lifetime,survival
+1,life,Lifetime,survival
+1,likelihood,likelihood,likelihood
+1,likelihood,likelihood,likelihood
+2,likelihood,likelihood,likelihood
+1,likelihood,likelihood,likelihood
+2,likelihood,likelihood,likelihood
+3,likelihood,likelihood,likelihood
+1,likelihood,likelihood,likelihood
+3,likelihood,likelihood,likelihood
+7,likelihood,likelihood,likelihood
+3,likelihood,likelihood,likelihood
+1,likelihood,likelihood,likelihood
+3,likelihood,likelihood,likelihood
+1,likelihood,likelihood,likelihood
+1,limit,Asymptotics,Asymptotics
+4,limit,Asymptotics,Asymptotics
+1,limiting,Asymptotics,Asymptotics
+4,limiting,Asymptotics,Asymptotics
+1,limiting,Asymptotics,Asymptotics
+6,link,linkage,genetic
+2,linkage,linkage,genetic
+2,linkage,linkage,genetic
+2,linked,linkage,genetic
+1,liver,body,Biostatistics 
+1,local,local,local
+1,local,local,local
+1,local,local,local
+2,local,local,local
+1,local,local,local
+3,logistic,logistic,glm
+1,logistic,logistic,glm
+3,logistic,logistic,glm
+1,logistics,logistic,glm
+1,lognormal,Distribution,Distribution
+1,loin,body,Biostatistics 
+1,longitudinal,longitudinal,longitudinal
+2,longitudinal,longitudinal,longitudinal
+8,longitudinal,longitudinal,longitudinal
+1,lose,loss,loss
+5,loss,loss,loss
+7,loss,loss,loss
+1,loss,loss,loss
+2,loss,loss,loss
+1,losses,loss,loss
+2,lottery,lottery,gambling
+1,lotto,lottery,gambling
+2,lymphoblastoid,Medical,Medical
+2,lymphoblastoid,Medical,Medical
+1,lymphocyte,genetic,genetic
+1,lymphocytes,genetic,genetic
+1,lymphoma,genetic,genetic
+1,lymphomas,genetic,genetic
+1,mackey,Delete,Delete
+1,mallard,animal,animal
+1,mallards,animal,animal
+1,marginal,marginal,marginal
+2,marginal,marginal,marginal
+2,marginal,marginal,marginal
+2,marginal,marginal,marginal
+1,marginalization,marginal,marginal
+2,marine,Environmental ,Environmental
+2,marine,Environmental ,Environmental
+1,markov,markov,markov
+3,markov,markov,markov
+8,markov,markov,markov
+1,markov,markov,markov
+3,markov,markov,markov
+8,markov,markov,markov
+3,markov,markov,markov
+2,markov,markov,markov
+2,markov,markov,markov
+15,markov,markov,markov
+3,markovian,markov,markov
+1,markovmodulated,markov,markov
+1,martingale,martingale,theory
+1,martingale,martingale,theory
+3,maximal,extrema,optimal
+1,maximal,extrema,optimal
+1,maximum,extrema,optimal
+1,maximum,extrema,optimal
+1,maximum,extrema,optimal
+1,maximum,extrema,optimal
+2,maximum,extrema,optimal
+1,maximum,extrema,optimal
+6,maximum,extrema,optimal
+1,maximum,extrema,optimal
+6,maximum,extrema,optimal
+2,maximum,extrema,optimal
+1,maximum,extrema,optimal
+1,maximum,extrema,optimal
+1,mcmc,bayesian,Bayesian
+2,measurement,measurement,measurement
+1,measurement,measurement,measurement
+2,measurements,measurement,measurement
+1,measurements,measurement,measurement
+1,measures,measurement,measurement
+1,measures,measurement,measurement
+1,measuring,measurement,measurement
+2,menstrual,Biostatistics,Biostatistics
+1,metabolic,Biostatistics,Biostatistics
+1,metabolic,Biostatistics,Biostatistics
+2,metabolism,Biostatistics,Biostatistics
+1,metabolism,Biostatistics,Biostatistics
+1,method,method,Methodology
+1,method,method,Methodology
+1,method,method,Methodology
+4,method,method,Methodology
+1,method,method,Methodology
+1,method,method,Methodology
+6,method,method,Methodology
+1,method,method,Methodology
+1,method,method,Methodology
+6,method,method,Methodology
+1,method,method,Methodology
+1,method,method,Methodology
+2,method,method,Methodology
+1,methodologies,method,Methodology
+1,methodology,method,Methodology
+5,methods,method,Methodology
+2,methods,method,Methodology
+1,methods,method,Methodology
+4,methods,method,Methodology
+4,methods,method,Methodology
+1,methods,method,Methodology
+2,methods,method,Methodology
+1,methods,method,Methodology
+2,methylation,Chemoinformatics,Chemoinformatics
+2,methylation,Chemoinformatics,Chemoinformatics
+1,metropolis,metropolis,computation
+1,metropolis,metropolis,computation
+1,microdochium,Biostatistics,Biostatistics
+1,minimal,extrema,optimal
+1,minimal,extrema,optimal
+1,minimizes,extrema,optimal
+13,minimum,extrema,optimal
+1,minimum,extrema,optimal
+3,minimum,extrema,optimal
+1,minimum,extrema,optimal
+2,misclassification,misclassification,classification
+3,missing,missing,missing
+1,missing,missing,missing
+1,missing,missing,missing
+2,missing,missing,missing
+1,missing,missing,missing
+5,missing,missing,missing
+2,missing,missing,missing
+2,misspecification,Model selection,Model selection
+2,mixed,mixture,mixture
+2,mixed,mixture,mixture
+5,mixed,mixture,mixture
+5,mixed,mixture,mixture
+2,mixed,mixture,mixture
+1,mixes,mixture,mixture
+1,mixture,mixture,mixture
+1,mixture,mixture,mixture
+1,mixture,mixture,mixture
+1,mixture,mixture,mixture
+2,mixture,mixture,mixture
+1,mixtures,mixture,mixture
+1,mixtures,mixture,mixture
+8,model,model,model
+1,model,model,model
+2,model,model,model
+6,model,model,model
+12,model,model,model
+3,model,model,model
+1,model,model,model
+12,model,model,model
+8,model,model,model
+3,model,model,model
+4,model,model,model
+1,model,model,model
+6,model,model,model
+3,model,model,model
+6,model,model,model
+15,model,model,model
+3,model,model,model
+1,modeling,model,model
+1,modeling,model,model
+3,modeling,model,model
+5,modeling,model,model
+1,modeling,model,model
+3,modelling,model,model
+1,modelling,model,model
+1,modelling,model,model
+2,models,model,model
+4,models,model,model
+5,models,model,model
+1,models,model,model
+1,models,model,model
+1,models,model,model
+5,models,model,model
+3,models,model,model
+3,models,model,model
+2,models,model,model
+2,models,model,model
+3,models,model,model
+11,models,model,model
+2,models,model,model
+2,models,model,model
+9,models,model,model
+7,models,model,model
+1,molecular,Chemoinformatics,Chemoinformatics
+1,monotone,constraint,constraint
+1,monotonicity,constraint,constraint
+1,monotonicity,constraint,constraint
+3,monte,monte,computation
+7,monte,monte,computation
+1,monte,monte,computation
+3,monte,monte,computation
+2,monte,monte,computation
+3,monte,monte,computation
+2,monte,monte,computation
+2,monte,computation,computation
+1,monte,monte,computation
+1,mortality,mortality,survival
+1,mortality,mortality,survival
+3,multinomial,Distribution,Distribution
+1,multiple,Delete,Delete
+1,multivariate,multivariate,computation
+2,multivariate,multivariate,computation
+1,muscles,body,Biostatistics 
+1,nba,Sport,Sport
+1,nearshore,Environmental ,Environmental
+1,needle,Delete,Delete
+7,network,network,network
+3,network,network,network
+1,network,network,network
+1,networks,network,network
+2,networks,network,network
+1,neurocognitive,Medical,Medical
+1,neuropsychological,Medical,Medical
+1,new,Medical,Medical
+3,newfoundland,Geography,Environmental
+1,nicholson,Delete,Delete
+1,nonidentifiability,identifiability,identifiability
+2,nonlinear,nonlinear,nonlinear
+2,nonlinear,nonlinear,nonlinear
+3,nonlinear,nonlinear,nonlinear
+2,nonlinear,nonlinear,nonlinear
+1,nonparametric,nonparametric,nonparametric
+3,nonparametric,nonparametric,nonparametric
+1,nonparametric,nonparametric,nonparametric
+1,nonstationarity,Time series,Time Series
+2,normal,Distribution,Distribution
+3,normality,Distribution,Distribution
+1,nuclear,Delete,Delete
+1,nucleotide,nucleotide,genetic
+4,nucleotide,nucleotide,genetic
+5,nucleotide,nucleotide,genetic
+1,observations,Data,Applied
+4,observations,Data,Applied
+1,of,Delete,Delete
+1,optimal,optimal,optimal
+3,optimal,optimal,optimal
+3,optimal,optimal,optimal
+1,optimal,optimal,optimal
+1,optimal,optimal,optimal
+1,optimality,optimal,optimal
+1,optimality,optimal,optimal
+1,order,discrete,discrete
+1,order,discrete,discrete
+1,order,discrete,discrete
+1,order,discrete,discrete
+5,ordering,discrete,discrete
+1,ordering,discrete,discrete
+1,orders,discrete,discrete
+1,ordinal,discrete,discrete
+2,ordinal,discrete,discrete
+1,ordinary,Delete,Delete
+1,orthogonal,orthogonal,Design of Experiment
+22,orthogonal,orthogonal,Design of Experiment
+7,orthogonal,orthogonal,Design of Experiment
+1,orthogonality,orthogonal,Design of Experiment
+1,overdispersion,overdispersion,glm
+1,pairwise,pairwise,comparison
+1,pairwise,pairwise,comparison
+5,parameter,parameter,parametric
+2,parameter,parameter,parametric
+2,parameter,parameter,parametric
+8,parameter,parameter,parametric
+5,parameter,parameter,parametric
+5,parameter,parameter,parametric
+1,parameter,parameter,parametric
+1,parameter,parameter,parametric
+1,parameterization,parameter,parametric
+1,parameters,parameter,parametric
+3,parameters,parameter,parametric
+7,parameters,parameter,parametric
+1,parameters,parameter,parametric
+2,parametric,parametric,parametric
+2,parametric,parametric,parametric
+2,parametric,parametric,parametric
+2,parametric,parametric,parametric
+1,parametric,parametric,parametric
+1,patient,Medical,Medical
+1,patients,patients,Medical
+1,patients,patients,Medical
+2,patients,patients,Medical
+8,penalized,penalty,penalty
+3,penalized,penalty,penalty
+1,penalty,penalty,penalty
+6,penalty,penalty,penalty
+1,pension,fund,finance
+1,pension,pension,pension
+1,pension,pension,pension
+2,peregrine,animal,animal
+1,peregrinus,pension,pension
+1,performance,pension,pension
+1,performance,pension,pension
+3,performance,pension,pension
+1,periconia,pension,pension
+5,periodic,periodic,Time Series
+1,periodic,periodic,Time Series
+1,periodic,periodic,Time Series
+1,periodicity,periodic,Time Series
+1,permutation,permutation,permutation
+1,permutation,permutation,permutation
+1,permutations,permutation,permutation
+1,perturbation,perturbed,perturbed
+9,perturbed,perturbed,perturbed
+2,perturbed,perturbed,perturbed
+2,pheasant,animal,animal
+1,physiological,Biostatistics,Biostatistics
+1,physiology,Biostatistics,Biostatistics
+4,physiology,Biostatistics,Biostatistics
+2,physiology,Biostatistics,Biostatistics
+6,physiopathology,Biostatistics,Biostatistics
+3,physiopathology,Biostatistics,Biostatistics
+2,pigs,animal,animal
+2,pink,Fish,animal
+1,pitcher,Sport,Sport
+1,plot,plot,graph
+2,plot,plot,graph
+10,plot,plot,graph
+1,plot,plot,graph
+1,poisson,Distribution,Distribution
+1,poisson,Distribution,Distribution
+8,poisson,Distribution,Distribution
+3,poisson,Distribution,Distribution
+1,poisson,Distribution,Distribution
+1,polynomials,regression,regression
+4,population,population,population
+9,population,population,population
+3,population,population,population
+3,population,population,population
+1,population,population,population
+1,population,population,population
+1,populations,population,population
+4,populations,population,population
+4,pork,animal,animal
+8,portfolio,portfolio,portfolio
+1,posterior,Bayesian ,Bayesian
+1,power,power,power
+3,power,power,power
+1,predator,Delete,Delete
+2,predict,predict,predict
+1,predicted,predict,predict
+1,predicted,predict,predict
+1,predicting,predict,predict
+1,prediction,predict,predict
+1,prediction,predict,predict
+1,prediction,predict,predict
+1,predictive,predict,predict
+1,predictive,predict,predict
+1,predictors,predict,predict
+1,predicts,predict,predict
+1,presence,categorical data,categorical data
+1,presence,categorical data,categorical data
+2,presence,categorical data,categorical data
+2,prevalence,Delete,Delete
+1,prey,Delete,Delete
+1,prior,prior,Bayesian
+1,prior,prior,Bayesian
+1,prior,prior,Bayesian
+1,prior,prior,Bayesian
+5,priors,prior,Bayesian
+3,probabilities,Probability,Probability
+3,probabilities,Probability,Probability
+3,probabilities,Probability,Probability
+1,probabilities,Probability,Probability
+3,probability,Probability,Probability
+2,probability,Probability,Probability
+1,probability,Probability,Probability
+4,probability,Probability,Probability
+1,probability,Probability,Probability
+1,probability,Probability,Probability
+1,probit,glm,glm
+1,process,process,stochastic
+3,profiled,profiled,profiled
+2,profiled,profiled,profiled
+4,profiling,profiled,profiled
+1,quadriceps,body,Biostatistics 
+1,quantitative,Delete,Delete
+3,random,random,random
+2,random,random,random
+2,random,random,random
+1,random,random,random
+1,random,random,random
+2,random,random,random
+4,random,random,random
+3,random,random,random
+1,randomization,Design of Experiment,Design of Experiment
+8,randomization,Design of Experiment,Design of Experiment
+1,randomizations,Design of Experiment,Design of Experiment
+3,rao,rao,rao
+2,rao,rao,rao
+3,rao,rao,rao
+3,rao,rao,rao
+1,rate,rate,rate
+4,rate,rate,rate
+1,rate,rate,rate
+7,rate,rate,rate
+1,rate,rate,rate
+1,rate,rate,rate
+9,rates,rate,rate
+1,rates,rate,rate
+4,rates,rate,rate
+1,rates,rate,rate
+3,rates,rate,rate
+1,rates,rate,rate
+1,recapture,Capture Recapture,Capture Recapture
+16,recapture,Capture Recapture,Capture Recapture
+1,reference,Delete,Delete
+1,regression,regression,regression
+1,regression,regression,regression
+3,regression,regression,regression
+2,regression,regression,regression
+5,regression,regression,regression
+3,regression,regression,regression
+1,regression,regression,regression
+12,regression,regression,regression
+6,regression,regression,regression
+3,regression,regression,regression
+9,regression,regression,regression
+2,regression,regression,regression
+2,regression,regression,regression
+1,regression,regression,regression
+3,regular,regularization,penalty
+4,regular,regularization,penalty
+1,regularization,regularization,penalty
+1,relapsing,Clinical trials,Medical
+1,release,Delete,Delete
+1,repeated,repeated,repeated
+1,repeated,repeated,repeated
+2,repeated,repeated,repeated
+1,replacement,replacement,sampling
+1,respondent,respondent,Applied
+1,respondent,respondent,Applied
+1,response,response,Applied
+5,response,response,Applied
+1,response,response,Applied
+3,response,response,Applied
+1,response,response,Applied
+1,restricted,restricted,constraint
+2,restricted,restricted,constraint
+2,restrictions,restricted,constraint
+1,retrospective,observational,Delete
+4,risk,risk,risk
+1,risk,risk,risk
+1,risk,risk,risk
+13,risk,risk,risk
+1,risk,risk,risk
+2,risk,risk,risk
+1,risks,risk,risk
+1,risks,risk,risk
+1,risks,risk,risk
+8,robust,Robust,Robust
+3,robust,Robust,Robust
+3,robust,Robust,Robust
+2,robust,Robust,Robust
+1,robustness,Robust,Robust
+1,rodent,animal,animal
+1,rodents,animal,animal
+11,ruin,ruin,ruin
+1,ruin,ruin,ruin
+16,ruin,ruin,ruin
+4,salmo,Fish,animal
+1,salmon,Fish,animal
+7,salmon,Fish,animal
+5,salmon,Fish,animal
+4,salmon,animal,animal
+2,salmonis,Fish,animal
+1,sample,sample,sampling
+2,sample,sample,sampling
+2,sample,sample,sampling
+1,sample,sample,sampling
+2,sample,sample,sampling
+1,sampler,sampler,sampling
+2,sampler,sampler,sampling
+1,sampler,sampler,sampling
+1,samples,sample,sampling
+2,sampling,Sampling,sampling
+36,sampling,Sampling,sampling
+4,sampling,Sampling,sampling
+1,sampling,Sampling,sampling
+2,sampling,Sampling,sampling
+1,sampling,Sampling,sampling
+2,sampling,Sampling,sampling
+5,sclerosis,Biostatistics,Biostatistics
+1,score,score,score
+1,score,score,score
+1,score,score,score
+1,screening,screening,screening
+1,screening,screening,screening
+1,screening,screening,screening
+3,screening,screening,screening
+1,screening,screening,screening
+1,sde,sde,sde
+1,sea,Environmental ,Environmental
+1,sea,Environmental ,Environmental
+2,seal,Environmental ,Environmental
+1,selected,selecting,selection
+1,selecting,selecting,selection
+1,selecting,selecting,selection
+1,selecting,selecting,selection
+1,selecting,selecting,selection
+1,selection,selection,selection
+1,selection,selection,selection
+2,selection,selection,selection
+1,selection,selection,selection
+1,selection,selection,selection
+4,selection,selection,selection
+2,selection,selection,selection
+2,semi,semiparametric,semiparametric
+1,semi,semiparametric,semiparametric
+1,semi,semiparametric,semiparametric
+3,semiparametric,semiparametric,semiparametric
+1,semiparametric,semiparametric,semiparametric
+3,semiparametric,semiparametric,semiparametric
+1,semiparametric,semiparametric,semiparametric
+2,semiparametric,semiparametric,semiparametric
+1,sensitivity,sensitivity,identifiability
+1,sensitivity,sensitivity,identifiability
+1,sensitivity,sensitivity,identifiability
+1,sensitivity,sensitivity,identifiability
+3,sequence,sequence,sequential
+1,sequence,sequence,sequential
+1,sequential,sequential,sequential
+1,sequential,sequential,sequential
+1,series,series,Time Series
+2,series,series,Time Series
+1,series,series,Time Series
+1,series,series,Time Series
+2,signal,signal,signal
+2,signal,signal,signal
+2,signal,signal,signal
+1,signal,signal,signal
+1,signals,signal,signal
+1,simulate,simulate,simulate
+1,simulated,simulate,simulate
+1,simulated,simulate,simulate
+2,simulation,simulation,portfolio
+5,simulation,simulation,simulate
+2,simulation,simulation,simulate
+1,simulation,simulation,simulate
+2,simulation,simulation,simulate
+2,simulation,simulation,simulate
+1,simulation,simulation,simulate
+1,simulation,simulation,simulate
+1,simulator,simulator,computation
+2,simulator,simulator,computation
+1,skin,Medical,Medical
+1,smooth,smoothing,smoothing
+15,smoothing,smoothing,smoothing
+5,smoothing,smoothing,smoothing
+4,smoothing,smoothing,smoothing
+1,snp,snp,snp
+2,snp,snp,snp
+3,snp,snp,snp
+1,snps,snp,snp
+1,sockeye,animal,animal
+1,sodium,Chemoinformatics,Chemoinformatics
+2,software,software,computation
+2,software,software,computation
+2,software,software,computation
+2,software,software,computation
+3,spatial,spatial,spatial
+2,spatial,spatial,spatial
+1,spatial,spatial,spatial
+1,spatial,spatial,spatial
+2,spatial,spatial,spatial
+1,spatial,spatial,spatial
+1,spatio,spatial,spatial
+1,speci,species,genetic
+1,speci,species,genetic
+2,species,species,genetic
+1,species,species,genetic
+1,specificity,Delete,Delete
+1,spectral,Time Series,Time Series
+1,spline,smoothing,smoothing
+5,spline,smoothing,smoothing
+2,spline,smoothing,smoothing
+2,splines,smoothing,smoothing
+4,splines,smoothing,smoothing
+1,splines,smoothing,smoothing
+1,split,Design of Experiment,Design of Experiment
+2,split,Design of Experiment,Design of Experiment
+9,split,Design of Experiment,Design of Experiment
+1,sport,Sport,Sport
+1,sporting,Sport,Sport
+1,sports,Sport,Sport
+1,sports,Sport,Sport
+1,sportsbook,Sport,Sport
+2,standard,Delete,Delete
+1,stationary,Stochastic processes,stochastic
+2,statistic,statistic,statistic
+3,statistic,statistic,statistic
+1,statistical,statistic,statistic
+3,statistical,statistic,statistic
+2,statistical,statistic,statistic
+2,statistical,statistic,statistic
+1,statistical,statistic,statistic
+1,statistical,statistic,statistic
+1,statistical,statistic,statistic
+1,statistical,statistic,statistic
+1,statistical,statistic,statistic
+1,statistician,statistic,statistic
+5,statistics,statistic,statistic
+2,statistics,statistic,statistic
+1,status,Delete,Delete
+1,stepwise,stepwise,Model selection
+2,stepwise,stepwise,Model selection
+6,stochastic,stochastic,sde
+1,stochastic,stochastic,stochastic
+1,stochastic,stochastic,stochastic
+1,stochastic,stochastic,stochastic
+1,stochastic,Stochastic processes,stochastic
+2,stratification,stratification,stratification
+2,stratification,stratification,stratification
+1,stratification,stratification,stratification
+2,stratification,stratification,stratification
+2,stratified,stratification,stratification
+1,stratified,stratification,stratification
+1,study,study,study
+1,survey,survey,survey
+1,survey,survey,survey
+4,survey,survey,survey
+1,surveys,survey,survey
+4,surveys,survey,survey
+1,survival,Survival,survival
+1,survival,Survival,survival
+9,survival,Survival,survival
+1,survival,Survival,survival
+2,survival,Survival,survival
+1,survival,Survival,survival
+3,system,Delete,Delete
+2,tagged,tagged,survey
+1,tagging,tagged,survey
+1,tagging,tagged,survey
+3,tags,tagged,survey
+5,temperature,Environmental ,Environmental
+2,tempering,computation,computation
+4,test,test,Hypothesis testing
+4,test,test,Hypothesis testing
+1,test,test,Hypothesis testing
+9,test,test,Hypothesis testing
+7,test,test,Hypothesis testing
+1,test,test,Hypothesis testing
+2,test,test,Hypothesis testing
+1,test,test,Hypothesis testing
+1,test,test,Hypothesis testing
+2,test,test,Hypothesis testing
+1,test,test,Hypothesis testing
+1,testing,test,Hypothesis testing
+3,testing,test,Hypothesis testing
+2,testing,test,Hypothesis testing
+1,testing,test,Hypothesis testing
+1,testing,test,Hypothesis testing
+1,testing,test,Hypothesis testing
+1,tests,test,Hypothesis testing
+2,tests,test,Hypothesis testing
+7,tests,test,Hypothesis testing
+1,tests,test,Hypothesis testing
+3,tests,test,Hypothesis testing
+1,the,Delete,Delete
+1,theorem,theory,theory
+2,theorem,theory,theory
+1,theorem,theory,theory
+1,theorem,theory,theory
+1,theorems,theory,theory
+1,theorems,theory,theory
+1,theory,theory,theory
+2,theory,theory,theory
+1,theory,theory,theory
+1,theory,theory,theory
+4,theory,theory,theory
+2,theory,theory,theory
+5,theory,theory,theory
+1,three,Delete,Delete
+1,thyroid,Medical,Medical
+6,time,Time series,Time Series
+2,time,Time series,Time Series
+7,time,Time series,Time Series
+3,time,Time series,Time Series
+1,time,Time series,Time Series
+2,time,Time series,Time Series
+5,time,Time series,Time Series
+3,time,Time series,Time Series
+2,time,Time series,Time Series
+1,time,Time series,Time Series
+1,times,Time series,Time Series
+1,to,Delete,Delete
+3,trachomatis,Medical,Medical
+2,trials,Clinical trials,Medical
+3,trials,Clinical trials,Medical
+1,tuberculin,Medical,Medical
+2,tuberculosis,Medical,Medical
+1,urchins,Fish,animal
+1,urinary,Biostatistics ,Biostatistics 
+1,using,Delete,Delete
+1,validation,validation,validation
+1,validation,validation,validation
+1,variability,variance,variation
+3,variable,variables,Applied
+1,variable,variables,Applied
+1,variable,variables,Applied
+1,variable,variables,Applied
+1,variable,variables,Applied
+3,variables,variables,Applied
+1,variables,variables,Applied
+2,variables,variables,Applied
+1,variables,variables,Applied
+1,variance,variance,variation
+1,variance,variance,variation
+1,variance,variance,variation
+10,variance,variance,variation
+2,variance,variance,variation
+1,variance,variance,variation
+1,variance,variance,variation
+2,variance,variance,variation
+2,variance,variance,variation
+1,variation,variation,variation
+1,variation,variation,variation
+1,variation,variation,variation
+1,variation,variation,variation
+2,variation,variation,variation
+1,variations,variation,variation
+1,varying,varying,variation
+1,varying,varying,variation
+1,varying,varying,variation
+1,vascular,body,Biostatistics 
+1,vascular,body,Biostatistics 
+1,viral,Medical,Medical
+2,viral,Medical,Medical
+1,virology,Medical,Medical
+2,volatiles,volatility,volatility
+1,volatility,volatility,volatility
+1,wagering,gambler,gambling
+2,wiener,sde,sde
+1,wiener,sde,sde
+7,winbugs,Bayesian,Bayesian
+1,winbugs,Bayesian,Bayesian
+1,,,Applied
+1,,,risk
